@@ -1,0 +1,38 @@
+header {
+    font-size: large;
+    font-weight: 100;
+    font: Helvetica;
+}
+
+body {
+    background-color: #FFF;
+
+}
+
+.content {
+    border:aquamarine;
+}
+
+.content h1 {
+    font-size:medium;
+}
+
+.content p {
+    font-size: small;
+}
+
+img {
+    border-radius: 2px;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+a:hover {
+    border-style: none none solid none;
+    border-color: brown;
+}
+
+#currentpage {
+    border: dotted dotted dotted dotted;
+    border-color: gray;
+}
