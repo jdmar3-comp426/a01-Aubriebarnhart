@@ -1,16 +1,15 @@
 header {
     font-size: large;
     font-weight: 100;
-    font: Helvetica;
+    font-family: sans-serif;
 }
 
 body {
     background-color: #FFF;
-
 }
 
 .content {
-    border:aquamarine;
+    border-color:aquamarine;
 }
 
 .content h1 {
@@ -33,6 +32,5 @@ a:hover {
 }
 
 #currentpage {
-    border: dotted dotted dotted dotted;
     border-color: gray;
 }
