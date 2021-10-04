@@ -45,3 +45,7 @@ p {
     font-family: cursive;
     font-size: small;
 }
+
+.charactercontent h2 {
+    color: purple;
+}
