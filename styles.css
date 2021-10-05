@@ -13,7 +13,7 @@ body {
     border-color:aquamarine;
 }
 
-.content h2 {
+.content .head3{
     font-size:medium;
 }
 
@@ -46,7 +46,7 @@ p {
     font-size: small;
 }
 
-.charactercontent h2 {
+.charactercontent .head2 {
     color: purple;
 }
 
