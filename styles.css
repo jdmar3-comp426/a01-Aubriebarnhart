@@ -10,7 +10,7 @@ body {
 }
 
 .content {
-    border-color:aquamarine;
+    border-color: #7fffd4;
 }
 
 .content .head3{
@@ -22,23 +22,22 @@ body {
 }
 
 img {
-    border-radius: 2px;
-    max-width: 200px;
-    max-height: 200px;
+    width: 200px;
+    height: 200px;
 }
 
 a:hover {
     border-style: none none solid none;
-    border-color: brown;
+    border-color: #fff8dc;
 }
 
 #currentpage {
-    border-color: gray;
+    border-color:#808080;
 }
 
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: pink;
+    color: #ffc0cb;
 }
 
 p {
@@ -47,9 +46,9 @@ p {
 }
 
 .charactercontent .head2 {
-    color: purple;
+    color: #800080;
 }
 
 h3 {
-    color: red;
+    color: #ff0000;
 }
