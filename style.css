@@ -1,4 +1,4 @@
-header {
+.header {
     font-size: large;
     font-weight: 100;
     font-family: sans-serif;
@@ -13,7 +13,7 @@ body {
     border-color:aquamarine;
 }
 
-.content h1 {
+.content h2 {
     font-size:medium;
 }
 
